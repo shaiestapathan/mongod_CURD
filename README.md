@@ -67,10 +67,6 @@ Delete Record – Select a row and click Delete.
 
 Clear Fields – Click Clear to reset input boxes.
 
-🖼️ Screenshot
-
-(Add your app screenshot here)
-
 📌 Notes
 
 This app connects to a local MongoDB instance.
